@@ -4,6 +4,10 @@
 
 這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在資訊工業策進會開設的 Python 網路爬蟲課程網頁，課程時數 12 小時。
 
+### 聯絡我
+
+<tony@kyosei.ai>
+
 ### 課程互動頻道
 
 <https://www.sli.do>
