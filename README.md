@@ -12,11 +12,7 @@
 
 <https://www.sli.do>
 
-Event Code: 7929
-
-### 課程共筆
-
-<https://colab.research.google.com/drive/18894jsWZK0JyTrrrlEgoXiwhazGQrIBo>
+Event Code: X481
 
 ### 投影片
 
@@ -26,5 +22,9 @@ Event Code: 7929
 
 ### 延伸閱讀
 
-- [輕鬆學習 Python](https://www.datainpoint.com/python-essentials/)
+- [conda 的核心功能](https://medium.com/datainpoint/python-essentials-conda-quickstart-1f1e9ecd1025?source=friends_link&sk=22cbfdae4fcaa43c02251277789a5e60)
+- [在學習網站爬蟲之前](https://medium.com/datainpoint/python-essentials-before-web-scraping-822b0b351bb3?source=friends_link&sk=cf9c12aefb1651c3983e5884c6e0e953)
+- [透過 API 擷取網站資料](https://medium.com/datainpoint/python-essentials-requesting-web-api-edd417a57ba5?source=friends_link&sk=b3373c3bbdd70a2a1e8688442e0aea8a)
+- [透過解析 HTML 擷取網站資料](https://medium.com/datainpoint/python-essentials-parsing-html-5620b4c06e50?source=friends_link&sk=d9faae6df89f81076605ed01d8cbb98c)
+- [透過操控瀏覽器擷取網站資料](https://medium.com/datainpoint/python-essentials-web-scraping-with-selenium-638175f839ee?source=friends_link&sk=871d3d9696ef319437cf31c4ff6f7afb)
 - [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
