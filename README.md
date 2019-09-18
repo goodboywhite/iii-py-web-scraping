@@ -16,9 +16,9 @@ Event Code: X481
 
 ### 投影片
 
-- [建立開發環境](dev_env.slides.html)
-- [靜態網頁擷取](static_scraper.slides.html)
-- [動態網頁擷取](dynamic_scraper.slides.html)
+- [網頁資料擷取的開發環境](https://yaojenkuo.io/python_4_ds/00-.slides.html)
+- [網頁資料擷取](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html)
+- [網頁資料擷取排程與分享資料](https://yaojenkuo.io/python_4_ds/03-web-scraping-102.slides.html)
 
 ### 延伸閱讀
 
