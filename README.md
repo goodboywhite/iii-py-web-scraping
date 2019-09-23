@@ -17,6 +17,7 @@ Event Code: X481
 ### 投影片
 
 - [網頁資料擷取的開發環境](https://yaojenkuo.io/python_4_ds/00-scraping-env.slides.html)
+- [Python 程式設計常用技巧](https://yaojenkuo.io/python_4_ds/02-python-programming-skills.slides.html)
 - [網頁資料擷取](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html)
 - [網頁資料擷取排程與分享資料](https://yaojenkuo.io/python_4_ds/03-web-scraping-102.slides.html)
 
@@ -28,4 +29,6 @@ Event Code: X481
 - [透過 API 擷取網站資料](https://medium.com/datainpoint/python-essentials-requesting-web-api-edd417a57ba5?source=friends_link&sk=b3373c3bbdd70a2a1e8688442e0aea8a)
 - [透過解析 HTML 擷取網站資料](https://medium.com/datainpoint/python-essentials-parsing-html-5620b4c06e50?source=friends_link&sk=d9faae6df89f81076605ed01d8cbb98c)
 - [透過操控瀏覽器擷取網站資料](https://medium.com/datainpoint/python-essentials-web-scraping-with-selenium-638175f839ee?source=friends_link&sk=871d3d9696ef319437cf31c4ff6f7afb)
+- [定時執行網站爬蟲](https://medium.com/datainpoint/python-essentials-scraper-deployment-a85beb5b6363?source=friends_link&sk=be38921ae7fc42f8dfecc7e23737b867)
+- [使用 Flask 創建 Web API](https://medium.com/datainpoint/flask-web-api-quickstart-3b13d96cccc2?source=friends_link&sk=67e2f10ef576d0e3bdf80a79b922e4db)
 - [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
