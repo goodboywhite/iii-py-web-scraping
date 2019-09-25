@@ -21,6 +21,13 @@ Event Code: X481
 - [網頁資料擷取](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html)
 - [網頁資料擷取排程與分享資料](https://yaojenkuo.io/python_4_ds/03-web-scraping-102.slides.html)
 
+### PDF 版本
+
+- [網頁資料擷取的開發環境](https://yaojenkuo.io/python_4_ds/00-scraping-env-slides.pdf)
+- [Python 程式設計常用技巧](https://yaojenkuo.io/python_4_ds/02-python-programming-skills-slides.pdf)
+- [網頁資料擷取](https://yaojenkuo.io/python_4_ds/03-web-scraping-101-slides.pdf)
+- [網頁資料擷取排程與分享資料](https://yaojenkuo.io/python_4_ds/03-web-scraping-102-slides.pdf)
+
 ### 延伸閱讀
 
 - [conda 的核心功能](https://medium.com/datainpoint/python-essentials-conda-quickstart-1f1e9ecd1025?source=friends_link&sk=22cbfdae4fcaa43c02251277789a5e60)
